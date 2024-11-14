@@ -1,0 +1,2 @@
+{"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}--_curl_--"id": 1
+--_curl_-- "item": "첫번째 아이템"
